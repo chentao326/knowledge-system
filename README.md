@@ -104,7 +104,29 @@ knowledge-system/
 
 ---
 
+## 灵感来源
+
+本系统的设计灵感来自以下两个核心来源：
+
+### Andrej Karpathy — LLM Knowledge Bases
+
+Karpathy 在 [X/Twitter](https://x.com/karpathy/status/2039805659525644595) 上分享了用 LLM 构建个人知识库的完整工作流（阅读量超 1900 万）。核心思路：
+
+> 用 LLM 将原始数据"编译"为 .md wiki，再通过 CLI 工具进行问答和增量增强，全部在 Obsidian 中查看。你几乎不需要手动编辑 wiki，那是 LLM 的领域。
+
+他的流程：**Data Ingest → Wiki Compile → Q&A → Output → Linting**，与本系统的摄取 → 消化 → 输出 → 巡检高度一致。
+
+### 数字游牧人 Samuel — 用 AI 搭一套会复利的知识系统
+
+Samuel 在 [飞书文档](https://lcnaoyjp4e3z.feishu.cn/docx/LpbXdRfevoE2c0xfoLWcEY2an7b) 中系统化地提出了 **Compound Engineering（复利工程）** 理念，并将 Karpathy 的工作流扩展为可复现的四步流程。核心思想：
+
+> 不要只让 AI 生成一次性的结果。要让 AI 帮你生成一套能持续使用、自我增强的系统。
+
+本系统直接基于 Samuel 的方法论构建，采用 Zettelkasten 笔记法组织知识层，并集成了 Obsidian + AI Agent 工具链。
+
+---
+
 ## 参考资料
 
-- Samuel「用 AI 搭一套会复利的知识系统」
-- Andrej Karpathy「LLM Knowledge Bases」
+- [Andrej Karpathy — LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595)
+- [Samuel — 用 AI 搭一套会复利的知识系统](https://lcnaoyjp4e3z.feishu.cn/docx/LpbXdRfevoE2c0xfoLWcEY2an7b)
