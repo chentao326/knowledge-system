@@ -102,3 +102,59 @@
 - 原则：先出报告不自动改、关注结构问题、结果落文件
 - 提示词：`prompts/inspect.md`
 - Schema：`schemas/inspection-schema.md`
+
+---
+
+## Myco 代谢层（v0.1）
+
+本系统内建了轻量 Myco 认知基质工具，提供免疫检查和代谢循环追踪。
+
+### 工具位置
+
+- `tools/myco_immune.py` — 免疫检查器（4 维：MB1/MB2/SE1/SE2，含 Severity/Category 类型系统）
+- `tools/myco_cycle.py` — 代谢循环追踪器（4 阶段：摄取→消化→输出→巡检）
+
+### Agent 核心规则（3 条）
+
+1. **管线操作后自动记录**：任何 ingest/digest/output 完成后，自动执行 `python3 tools/myco_cycle.py --stage <stage>`
+2. **巡检前自动免疫检查**：inspect 前先执行 `python3 tools/myco_immune.py --summary`
+3. **每周一自动生成报告**：`python3 tools/myco_cycle.py --report`
+
+### 快速参考
+
+| 用户说 | Agent 执行 |
+|--------|-----------|
+| "检查知识库健康" | `python3 tools/myco_immune.py` |
+| "查看代谢状态" | `python3 tools/myco_cycle.py` |
+| "修复断链" | `python3 tools/myco_immune.py --fix` |
+| "只看语义检查" | `python3 tools/myco_immune.py --categories semantic` |
+
+### 免疫检查维度速查
+
+| 代号 | 分类 | 默认级别 | 含义 |
+|------|------|---------|------|
+| MB1 | metabolic | MEDIUM (2) | raw/ 积压超 7 天 |
+| MB2 | metabolic | LOW (1) | knowledge/ 条目未被引用 |
+| SE1 | semantic | HIGH (3) | 断链 wikilink |
+| SE2 | semantic | MEDIUM/LOW | 缺少 sources/related 元数据 |
+
+### exit_code 含义（供 Agent 决策）
+
+- `0` — 无 HIGH 及以上发现，可继续
+- `1` — 有 HIGH 发现（无 CRITICAL），建议关注但不阻断
+- `2` — 有 CRITICAL 发现，停止并要求人工介入
+
+### 修复原则
+
+- 免疫报告出来后，**先让用户审阅，获得确认后再修复**
+- 巡检默认只出报告，不自动修复（与巡检规则一致）
+- 使用 `--fix` 标志时才执行自动修复
+- 修复后重新运行免疫检查确认
+
+### Myco 工具与现有管线的协作
+
+1. **摄取阶段**：现有 ingest 流程不变。完成后执行 `myco_cycle.py --stage ingest`。
+2. **消化阶段**：现有 digest 流程不变。完成后执行 `myco_cycle.py --stage digest`。
+3. **输出阶段**：现有 output 流程不变。完成后执行 `myco_cycle.py --stage output`。
+4. **巡检阶段**：在现有 inspect 流程前执行 `myco_immune.py --summary`（快速了解健康状态），inspect 流程中执行 `myco_immune.py`（生成完整免疫报告），inspect 结束后执行 `myco_cycle.py --stage inspect`。
+5. Myco 工具只做检查和追踪，不覆盖、不修改、不拦截现有管线的任何输出。
