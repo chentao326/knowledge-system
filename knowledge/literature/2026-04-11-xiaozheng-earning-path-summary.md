@@ -6,12 +6,12 @@ created_at: 2026-04-11
 updated_at: 2026-04-11
 type: summary
 topics:
-  - "[[topic-earning-methodology]]"
+  - "topic-earning-methodology"
 concepts:
-  - "[[concept-earning-probability]]"
-  - "[[concept-hypothesis-driven]]"
-  - "[[concept-core-hypothesis]]"
-  - "[[concept-low-cost-validation]]"
+  - "concept-earning-probability"
+  - "concept-hypothesis-driven"
+  - "concept-core-hypothesis"
+  - "concept-low-cost-validation"
 ---
 
 ## Core Idea
@@ -44,9 +44,9 @@ concepts:
 
 ## Related
 
-- [[concept-earning-probability]]
-- [[concept-hypothesis-driven]]
-- [[concept-core-hypothesis]]
-- [[concept-low-cost-validation]]
-- [[topic-earning-methodology]]
-- [[concept-incremental-processing]]
+- concept-earning-probability
+- concept-hypothesis-driven
+- concept-core-hypothesis
+- concept-low-cost-validation
+- topic-earning-methodology
+- concept-incremental-processing

@@ -5,13 +5,13 @@ type: topic
 created_at: 2026-04-10
 updated_at: 2026-04-10
 related:
-  - "[[concept-llm-knowledge-compiler]]"
-  - "[[concept-file-over-app]]"
-  - "[[concept-incremental-processing]]"
-  - "[[concept-zettelkasten]]"
-  - "[[concept-query-loop]]"
-  - "[[concept-inspection-over-repair]]"
-  - "[[topic-compound-engineering]]"
+  - "concept-llm-knowledge-compiler"
+  - "concept-file-over-app"
+  - "concept-incremental-processing"
+  - "concept-zettelkasten"
+  - "concept-query-loop"
+  - "concept-inspection-over-repair"
+  - "topic-compound-engineering"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
   - 2026-04-10-karpathy-llm-knowledge-base-002
@@ -92,10 +92,10 @@ sources:
 
 ## Related
 
-- [[concept-llm-knowledge-compiler]] — LLM 作为知识编译器
-- [[concept-file-over-app]] — 文件优先原则
-- [[concept-zettelkasten]] — Zettelkasten 笔记法
-- [[concept-query-loop]] — 查询循环
-- [[topic-compound-engineering]] — 复利工程方法论
-- [[2026-04-10-samuel-compound-knowledge-system-001]] — Samuel 来源
-- [[2026-04-10-karpathy-llm-knowledge-base-002]] — Karpathy 来源
+- concept-llm-knowledge-compiler — LLM 作为知识编译器
+- concept-file-over-app — 文件优先原则
+- concept-zettelkasten — Zettelkasten 笔记法
+- concept-query-loop — 查询循环
+- topic-compound-engineering — 复利工程方法论
+- 2026-04-10-samuel-compound-knowledge-system-001 — Samuel 来源
+- 2026-04-10-karpathy-llm-knowledge-base-002 — Karpathy 来源

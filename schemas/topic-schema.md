@@ -5,9 +5,9 @@ type: topic
 created_at: YYYY-MM-DD
 updated_at: YYYY-MM-DD
 related:
-  - "[[concept-1]]"
-  - "[[concept-2]]"
-  - "[[topic-related]]"
+  - "concept-1"
+  - "concept-2"
+  - "topic-related"
 sources:
   - "[来源 raw 文件 id]"
 ---
@@ -36,5 +36,5 @@ sources:
 
 ## Related
 
-- [[相关概念]]
-- [[相关主题]]
+- 相关概念
+- 相关主题

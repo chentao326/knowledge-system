@@ -44,9 +44,9 @@ concepts:
 - 如何系统性地识别和量化隐性成本和隐性收益？
 
 ## Related
-- [[选择ROI]]
-- [[机会成本]]
-- [[稀缺资源]]
-- [[时间窗口]]
-- [[有效决策]]
-- [[来源: 2026-04-11-xiaozheng-tool3-effective-choice-005]]
+- 选择ROI
+- 机会成本
+- 稀缺资源
+- 时间窗口
+- 有效决策
+- 来源: 2026-04-11-xiaozheng-tool3-effective-choice-005

@@ -5,11 +5,11 @@ type: topic
 created_at: 2026-04-11
 updated_at: 2026-04-11
 related:
-  - "[[concept-earning-probability]]"
-  - "[[concept-hypothesis-driven]]"
-  - "[[concept-core-hypothesis]]"
-  - "[[concept-low-cost-validation]]"
-  - "[[concept-incremental-processing]]"
+  - "concept-earning-probability"
+  - "concept-hypothesis-driven"
+  - "concept-core-hypothesis"
+  - "concept-low-cost-validation"
+  - "concept-incremental-processing"
 sources:
   - "2026-04-11-xiaozheng-tool1-earning-path-003"
 ---
@@ -24,13 +24,13 @@ sources:
 
 赚钱是概率游戏，每个人的资源、背景、社会关系都影响概率。大部分人搞钱的动作是"歪的"，缺乏对搞钱本身的完整思考。X型搞钱人直接执行不思考假设，Y型搞钱人用假设驱动推进项目。
 
-> 核心概念：[[concept-earning-probability]]
+> 核心概念：concept-earning-probability
 
 ### 2. 拆解业务：五步法与核心假设
 
 "假设"是项目成立所依赖的前提条件，"核心假设"是所有假设中风险最高、对赚钱结果影响最重要的假设。五步法框架：列出所有假设 → 做减法找到核心假设 → 优先验证前置假设 → 尽量先验证单个假设 → 哪个风险高优先验证哪个。关键原则：拆不拆差别很大，拆得好不好差别没那么大。
 
-> 核心概念：[[concept-hypothesis-driven]]、[[concept-core-hypothesis]]
+> 核心概念：concept-hypothesis-driven、concept-core-hypothesis
 
 ### 3. 主要矛盾：抓住关键
 
@@ -40,7 +40,7 @@ sources:
 
 三条验证策略：靠常识、靠调研、靠试验。成本差距源于：常识 < 调研 < 验证 < 全量开发。快钱不可持续，需要构建长期壁垒。
 
-> 核心概念：[[concept-low-cost-validation]]
+> 核心概念：concept-low-cost-validation
 
 ### 5. 真实案例验证
 
@@ -57,9 +57,9 @@ sources:
 
 ## Related
 
-- [[concept-earning-probability]]
-- [[concept-hypothesis-driven]]
-- [[concept-core-hypothesis]]
-- [[concept-low-cost-validation]]
-- [[concept-incremental-processing]]
-- [[concept-compound-engineering]]
+- concept-earning-probability
+- concept-hypothesis-driven
+- concept-core-hypothesis
+- concept-low-cost-validation
+- concept-incremental-processing
+- concept-compound-engineering

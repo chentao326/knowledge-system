@@ -7,8 +7,8 @@ updated_at: 2026-04-10
 aliases:
   - 输出即再生产
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-knowledge-compound]]"
+  - "concept-compound-engineering"
+  - "concept-knowledge-compound"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---

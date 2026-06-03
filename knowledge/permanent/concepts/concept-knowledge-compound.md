@@ -7,9 +7,9 @@ updated_at: 2026-04-10
 aliases:
   - 知识复利
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-query-loop]]"
-  - "[[concept-output-as-reproduction]]"
+  - "concept-compound-engineering"
+  - "concept-query-loop"
+  - "concept-output-as-reproduction"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
   - 2026-04-10-karpathy-llm-knowledge-base-002

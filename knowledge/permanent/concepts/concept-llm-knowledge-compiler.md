@@ -7,9 +7,9 @@ updated_at: 2026-04-10
 aliases:
   - LLM 知识编译器
 related:
-  - "[[concept-file-over-app]]"
-  - "[[concept-incremental-processing]]"
-  - "[[concept-query-loop]]"
+  - "concept-file-over-app"
+  - "concept-incremental-processing"
+  - "concept-query-loop"
 sources:
   - 2026-04-10-karpathy-llm-knowledge-base-002
 ---

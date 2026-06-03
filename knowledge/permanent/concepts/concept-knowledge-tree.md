@@ -9,9 +9,9 @@ aliases:
   - "个人知识树"
   - "知识体系树"
 related:
-  - "[[concept-ability-circle]]"
-  - "[[concept-knowledge-ipo]]"
-  - "[[concept-knowledge-compound]]"
+  - "concept-ability-circle"
+  - "concept-knowledge-ipo"
+  - "concept-knowledge-compound"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
 ---
@@ -32,6 +32,6 @@ sources:
 
 ## Notes
 
-- 知识树的构建需要先确定内核和边界，这与 [[concept-ability-circle]] 的理念一致
+- 知识树的构建需要先确定内核和边界，这与 concept-ability-circle 的理念一致
 - 知识树不是静态的，随着个人成长会持续演化
 - 在知识系统中，知识树可映射为 MOC（Map of Content）和主题页（topic）的结构

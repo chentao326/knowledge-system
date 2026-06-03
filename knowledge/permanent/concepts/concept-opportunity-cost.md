@@ -8,8 +8,8 @@ aliases:
   - "Opportunity Cost"
   - "替代成本"
 related:
-  - "[[concept-choice-roi]]"
-  - "[[concept-scarce-resource]]"
+  - "concept-choice-roi"
+  - "concept-scarce-resource"
 sources:
   - "2026-04-11-xiaozheng-tool3-effective-choice-005"
 ---

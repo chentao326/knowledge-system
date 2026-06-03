@@ -7,8 +7,8 @@ updated_at: 2026-04-10
 aliases:
   - 查询循环
 related:
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-llm-knowledge-compiler]]"
+  - "concept-knowledge-compound"
+  - "concept-llm-knowledge-compiler"
 sources:
   - 2026-04-10-karpathy-llm-knowledge-base-002
 ---

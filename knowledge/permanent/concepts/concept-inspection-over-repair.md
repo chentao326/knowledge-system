@@ -8,8 +8,8 @@ aliases:
   - 巡检优于修复
   - Audit Before Edit
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-incremental-processing]]"
+  - "concept-compound-engineering"
+  - "concept-incremental-processing"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---

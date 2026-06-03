@@ -7,9 +7,9 @@ updated_at: 2026-04-10
 aliases:
   - 复利工程
 related:
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-incremental-processing]]"
-  - "[[concept-output-as-reproduction]]"
+  - "concept-knowledge-compound"
+  - "concept-incremental-processing"
+  - "concept-output-as-reproduction"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---

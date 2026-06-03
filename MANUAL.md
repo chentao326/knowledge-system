@@ -244,8 +244,8 @@ concepts: [概念1, 概念2]
 - [待解决问题]
 
 ## Related
-- [[相关概念]]
-- [[来源 raw 文件]]
+- 相关概念
+- 来源 raw 文件
 ```
 
 #### 概念卡（`knowledge/permanent/concepts/`）
@@ -259,7 +259,7 @@ created_at: 2026-04-10
 updated_at: 2026-04-10
 aliases: [别名]
 related:
-  - "[[concept-related-1]]"
+  - "concept-related-1"
 sources: [来源 raw 文件 id]
 ---
 
@@ -286,8 +286,8 @@ type: topic
 created_at: 2026-04-10
 updated_at: 2026-04-10
 related:
-  - "[[concept-1]]"
-  - "[[topic-related]]"
+  - "concept-1"
+  - "topic-related"
 sources: [来源 raw 文件 id]
 ---
 
@@ -302,7 +302,7 @@ sources: [来源 raw 文件 id]
 - [冲突和未决问题]
 
 ## Related
-- [[相关概念]]
+- 相关概念
 ```
 
 ### 4.5 文件命名规则

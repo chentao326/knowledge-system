@@ -6,13 +6,13 @@ type: article
 platform: xiaohongshu
 target_audience: 知识管理爱好者
 topics:
-  - "[[topic-knowledge-management]]"
+  - "topic-knowledge-management"
 concepts:
-  - "[[concept-knowledge-ipo]]"
-  - "[[concept-deliberate-practice]]"
-  - "[[concept-knowledge-tree]]"
-  - "[[concept-ability-circle]]"
-  - "[[concept-knowledge-compound]]"
+  - "concept-knowledge-ipo"
+  - "concept-deliberate-practice"
+  - "concept-knowledge-tree"
+  - "concept-ability-circle"
+  - "concept-knowledge-compound"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
   - "2026-04-10-samuel-compound-knowledge-system-001"

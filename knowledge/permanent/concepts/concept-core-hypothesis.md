@@ -8,9 +8,9 @@ aliases:
   - "Core Hypothesis"
   - "关键假设"
 related:
-  - "[[concept-hypothesis-driven]]"
-  - "[[concept-low-cost-validation]]"
-  - "[[concept-earning-probability]]"
+  - "concept-hypothesis-driven"
+  - "concept-low-cost-validation"
+  - "concept-earning-probability"
 sources:
   - "2026-04-11-xiaozheng-tool1-earning-path-003"
 ---
@@ -36,4 +36,4 @@ sources:
 
 - 核心假设的识别需要结合业务经验和市场判断，目前没有完全标准化的方法。
 - 一个项目可能存在多个核心假设，需要按风险等级排序逐一验证。
-- 核心假设与 [[concept-hypothesis-driven]]（假设驱动）是上下游关系：假设驱动是方法论，核心假设是该方法论中的关键产出物。
+- 核心假设与 concept-hypothesis-driven（假设驱动）是上下游关系：假设驱动是方法论，核心假设是该方法论中的关键产出物。

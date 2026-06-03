@@ -7,8 +7,8 @@ updated_at: 2026-04-10
 aliases:
   - 文件优先
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-incremental-processing]]"
+  - "concept-compound-engineering"
+  - "concept-incremental-processing"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
   - 2026-04-10-karpathy-llm-knowledge-base-002

@@ -8,9 +8,9 @@ aliases:
   - "Low-Cost Validation"
   - "低成本试错"
 related:
-  - "[[concept-hypothesis-driven]]"
-  - "[[concept-core-hypothesis]]"
-  - "[[concept-earning-probability]]"
+  - "concept-hypothesis-driven"
+  - "concept-core-hypothesis"
+  - "concept-earning-probability"
 sources:
   - "2026-04-11-xiaozheng-tool1-earning-path-003"
 ---
@@ -36,6 +36,6 @@ sources:
 
 ## Notes
 
-- 低成本验证与 [[concept-incremental-processing]]（增量处理）理念一致：先小步验证，确认方向正确后再加大投入。
+- 低成本验证与 concept-incremental-processing（增量处理）理念一致：先小步验证，确认方向正确后再加大投入。
 - 快钱不可持续，低成本验证的目的是找到可长期复制的模式，而非追求一次性暴利。
-- 低成本验证的前提是已经完成了 [[concept-core-hypothesis]]（核心假设）的识别，否则验证会失去焦点。
+- 低成本验证的前提是已经完成了 concept-core-hypothesis（核心假设）的识别，否则验证会失去焦点。

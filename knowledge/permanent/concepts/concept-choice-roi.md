@@ -8,9 +8,9 @@ aliases:
   - "Choice ROI"
   - "选择回报率"
 related:
-  - "[[concept-opportunity-cost]]"
-  - "[[concept-scarce-resource]]"
-  - "[[concept-time-window]]"
+  - "concept-opportunity-cost"
+  - "concept-scarce-resource"
+  - "concept-time-window"
 sources:
   - "2026-04-11-xiaozheng-tool3-effective-choice-005"
 ---

@@ -39,8 +39,8 @@ Karpathy 以 ~100 篇文章 ~40 万词的研究 wiki 为实例验证了方法的
 
 # Related
 
-- [[concept-llm-knowledge-compiler]]
-- [[concept-file-over-app]]
-- [[concept-query-loop]]
-- [[concept-incremental-processing]]
-- [[2026-04-10-karpathy-llm-knowledge-base-002]]
+- concept-llm-knowledge-compiler
+- concept-file-over-app
+- concept-query-loop
+- concept-incremental-processing
+- 2026-04-10-karpathy-llm-knowledge-base-002

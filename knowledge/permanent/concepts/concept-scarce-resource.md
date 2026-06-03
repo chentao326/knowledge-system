@@ -8,8 +8,8 @@ aliases:
   - "Scarce Resource"
   - "稀缺要素"
 related:
-  - "[[concept-opportunity-cost]]"
-  - "[[concept-choice-roi]]"
+  - "concept-opportunity-cost"
+  - "concept-choice-roi"
 sources:
   - "2026-04-11-xiaozheng-tool3-effective-choice-005"
 ---

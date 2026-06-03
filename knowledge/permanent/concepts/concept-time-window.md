@@ -9,8 +9,8 @@ aliases:
   - "时间窗口期"
   - "红利期"
 related:
-  - "[[concept-choice-roi]]"
-  - "[[concept-opportunity-cost]]"
+  - "concept-choice-roi"
+  - "concept-opportunity-cost"
 sources:
   - "2026-04-11-xiaozheng-tool3-effective-choice-005"
 ---

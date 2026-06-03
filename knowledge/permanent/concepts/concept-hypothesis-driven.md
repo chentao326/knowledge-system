@@ -8,10 +8,10 @@ aliases:
   - "Hypothesis-Driven Approach"
   - "假设驱动方法"
 related:
-  - "[[concept-core-hypothesis]]"
-  - "[[concept-low-cost-validation]]"
-  - "[[concept-earning-probability]]"
-  - "[[concept-incremental-processing]]"
+  - "concept-core-hypothesis"
+  - "concept-low-cost-validation"
+  - "concept-earning-probability"
+  - "concept-incremental-processing"
 sources:
   - "2026-04-11-xiaozheng-tool1-earning-path-003"
 ---
@@ -35,4 +35,4 @@ sources:
 ## Notes
 
 - 假设驱动的关键原则："拆不拆差别很大，拆得好不好差别没那么大"——意思是拆解假设这个动作本身比拆解的精细程度更重要。
-- 假设驱动与 [[concept-incremental-processing]]（增量处理）有相通之处：都强调先小步验证、再决定是否加大投入。
+- 假设驱动与 concept-incremental-processing（增量处理）有相通之处：都强调先小步验证、再决定是否加大投入。

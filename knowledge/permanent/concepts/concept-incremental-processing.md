@@ -8,8 +8,8 @@ aliases:
   - 增量处理
   - 增量编译
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-file-over-app]]"
+  - "concept-compound-engineering"
+  - "concept-file-over-app"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
   - 2026-04-10-karpathy-llm-knowledge-base-002

@@ -8,9 +8,9 @@ aliases:
   - "Earning as Probability Game"
   - "赚钱是概率游戏"
 related:
-  - "[[concept-hypothesis-driven]]"
-  - "[[concept-core-hypothesis]]"
-  - "[[concept-low-cost-validation]]"
+  - "concept-hypothesis-driven"
+  - "concept-core-hypothesis"
+  - "concept-low-cost-validation"
 sources:
   - "2026-04-11-xiaozheng-tool1-earning-path-003"
 ---
@@ -35,5 +35,5 @@ sources:
 ## Notes
 
 - 赚钱概率论并不意味着赚钱完全靠运气，而是强调"方法可以提升概率"。
-- 这一概念与 [[concept-compound-engineering]]（复利工程）有潜在关联：持续应用正确方法可以产生复利效应，逐步提高赚钱概率。
+- 这一概念与 concept-compound-engineering（复利工程）有潜在关联：持续应用正确方法可以产生复利效应，逐步提高赚钱概率。
 - 概率论视角也暗示了"快钱不可持续"——一次性运气好不等于长期概率高，需要构建长期壁垒。

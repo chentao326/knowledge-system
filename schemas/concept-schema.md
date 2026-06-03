@@ -8,8 +8,8 @@ aliases:
   - "[别名1]"
   - "[别名2]"
 related:
-  - "[[concept-related-1]]"
-  - "[[concept-related-2]]"
+  - "concept-related-1"
+  - "concept-related-2"
 sources:
   - "[来源 raw 文件 id]"
 ---

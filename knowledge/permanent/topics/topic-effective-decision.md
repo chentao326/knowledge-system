@@ -5,10 +5,10 @@ type: topic
 created_at: 2026-04-11
 updated_at: 2026-04-11
 related:
-  - "[[concept-choice-roi]]"
-  - "[[concept-opportunity-cost]]"
-  - "[[concept-scarce-resource]]"
-  - "[[concept-time-window]]"
+  - "concept-choice-roi"
+  - "concept-opportunity-cost"
+  - "concept-scarce-resource"
+  - "concept-time-window"
 sources:
   - "2026-04-11-xiaozheng-tool3-effective-choice-005"
 ---
@@ -48,7 +48,7 @@ sources:
 - 长期视角与短期生存的冲突：长期ROI高的选项可能在短期内消耗大量资源，如何平衡短期生存与长期回报是一个未解决的张力。
 
 ## Related
-- [[选择ROI]]
-- [[机会成本]]
-- [[稀缺资源]]
-- [[时间窗口]]
+- 选择ROI
+- 机会成本
+- 稀缺资源
+- 时间窗口

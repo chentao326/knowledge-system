@@ -5,13 +5,13 @@ type: topic
 created_at: 2026-04-11
 updated_at: 2026-04-11
 related:
-  - "[[concept-knowledge-ipo]]"
-  - "[[concept-deliberate-practice]]"
-  - "[[concept-knowledge-tree]]"
-  - "[[concept-ability-circle]]"
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-output-as-reproduction]]"
-  - "[[topic-compound-engineering]]"
+  - "concept-knowledge-ipo"
+  - "concept-deliberate-practice"
+  - "concept-knowledge-tree"
+  - "concept-ability-circle"
+  - "concept-knowledge-compound"
+  - "concept-output-as-reproduction"
+  - "topic-compound-engineering"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
 ---
@@ -81,11 +81,11 @@ sources:
 
 ## Related
 
-- [[concept-knowledge-ipo]] — 知识IPO模型
-- [[concept-deliberate-practice]] — 刻意练习
-- [[concept-knowledge-tree]] — 知识树
-- [[concept-ability-circle]] — 能力圈
-- [[concept-knowledge-compound]] — 知识复利
-- [[concept-output-as-reproduction]] — 输出即再生产
-- [[topic-compound-engineering]] — 复利工程（系统层面的知识管理方法论）
-- [[2026-04-11-xiaozheng-tool2-knowledge-management-004]] — 来源文档
+- concept-knowledge-ipo — 知识IPO模型
+- concept-deliberate-practice — 刻意练习
+- concept-knowledge-tree — 知识树
+- concept-ability-circle — 能力圈
+- concept-knowledge-compound — 知识复利
+- concept-output-as-reproduction — 输出即再生产
+- topic-compound-engineering — 复利工程（系统层面的知识管理方法论）
+- 2026-04-11-xiaozheng-tool2-knowledge-management-004 — 来源文档

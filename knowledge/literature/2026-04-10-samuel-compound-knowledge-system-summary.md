@@ -42,10 +42,10 @@ concepts:
 
 # Related
 
-- [[concept-compound-engineering]]
-- [[concept-incremental-processing]]
-- [[concept-file-over-app]]
-- [[concept-atomic-notes]]
-- [[concept-inspection-over-repair]]
-- [[concept-output-as-reproduction]]
-- [[2026-04-10-samuel-compound-knowledge-system-001]]
+- concept-compound-engineering
+- concept-incremental-processing
+- concept-file-over-app
+- concept-atomic-notes
+- concept-inspection-over-repair
+- concept-output-as-reproduction
+- 2026-04-10-samuel-compound-knowledge-system-001

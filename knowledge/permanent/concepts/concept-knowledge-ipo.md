@@ -8,10 +8,10 @@ aliases:
   - "Knowledge IPO"
   - "知识输入-处理-输出模型"
 related:
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-deliberate-practice]]"
-  - "[[concept-knowledge-tree]]"
-  - "[[concept-output-as-reproduction]]"
+  - "concept-knowledge-compound"
+  - "concept-deliberate-practice"
+  - "concept-knowledge-tree"
+  - "concept-output-as-reproduction"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
 ---
@@ -34,4 +34,4 @@ sources:
 
 - 知识IPO强调"带着问题输入"，而非无目的的信息收集
 - Output 环节是区分"会学"和"会用"的关键
-- 该模型与 [[concept-output-as-reproduction]]（输出即再生产）理念相通
+- 该模型与 concept-output-as-reproduction（输出即再生产）理念相通

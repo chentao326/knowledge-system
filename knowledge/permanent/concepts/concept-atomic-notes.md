@@ -8,8 +8,8 @@ aliases:
   - 原子化笔记
   - Atomic Notes
 related:
-  - "[[concept-zettelkasten]]"
-  - "[[concept-compound-engineering]]"
+  - "concept-zettelkasten"
+  - "concept-compound-engineering"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---

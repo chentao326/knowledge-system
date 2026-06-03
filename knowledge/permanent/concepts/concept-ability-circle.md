@@ -9,8 +9,8 @@ aliases:
   - "Circle of Competence"
   - "能力范围"
 related:
-  - "[[concept-knowledge-tree]]"
-  - "[[concept-knowledge-ipo]]"
+  - "concept-knowledge-tree"
+  - "concept-knowledge-ipo"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
 ---
@@ -33,4 +33,4 @@ sources:
 
 - 能力圈不是固定不变的，通过学习和刻意练习可以逐步扩大
 - 能力圈的核心在于"知道自己不知道什么"，这比"知道自己知道什么"更重要
-- 与 [[concept-knowledge-tree]] 直接关联：能力圈定义了知识树的内核和边界
+- 与 concept-knowledge-tree 直接关联：能力圈定义了知识树的内核和边界

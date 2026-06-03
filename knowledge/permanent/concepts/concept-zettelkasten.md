@@ -7,8 +7,8 @@ updated_at: 2026-04-10
 aliases:
   - 卡片盒笔记法
 related:
-  - "[[concept-atomic-notes]]"
-  - "[[concept-file-over-app]]"
+  - "concept-atomic-notes"
+  - "concept-file-over-app"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---

@@ -8,9 +8,9 @@ aliases:
   - "Deliberate Practice"
   - "有目的的练习"
 related:
-  - "[[concept-knowledge-ipo]]"
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-output-as-reproduction]]"
+  - "concept-knowledge-ipo"
+  - "concept-knowledge-compound"
+  - "concept-output-as-reproduction"
 sources:
   - "2026-04-11-xiaozheng-tool2-knowledge-management-004"
 ---
@@ -32,5 +32,5 @@ sources:
 ## Notes
 
 - 刻意练习区别于"学习"的关键在于"输出"和"反馈"
-- 与 [[concept-knowledge-ipo]] 的 Output 环节直接关联
-- 与 [[concept-output-as-reproduction]] 理念一致：输出本身就是对知识的再加工和深化
+- 与 concept-knowledge-ipo 的 Output 环节直接关联
+- 与 concept-output-as-reproduction 理念一致：输出本身就是对知识的再加工和深化

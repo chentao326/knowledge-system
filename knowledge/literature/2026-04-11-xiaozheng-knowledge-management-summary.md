@@ -6,13 +6,13 @@ created_at: 2026-04-11
 updated_at: 2026-04-11
 type: summary
 topics:
-  - "[[topic-knowledge-management]]"
+  - "topic-knowledge-management"
 concepts:
-  - "[[concept-knowledge-ipo]]"
-  - "[[concept-deliberate-practice]]"
-  - "[[concept-knowledge-tree]]"
-  - "[[concept-ability-circle]]"
-  - "[[concept-knowledge-compound]]"
+  - "concept-knowledge-ipo"
+  - "concept-deliberate-practice"
+  - "concept-knowledge-tree"
+  - "concept-ability-circle"
+  - "concept-knowledge-compound"
 ---
 
 ## Core Idea
@@ -47,10 +47,10 @@ concepts:
 
 ## Related
 
-- [[concept-knowledge-ipo]] — 知识IPO模型
-- [[concept-deliberate-practice]] — 刻意练习
-- [[concept-knowledge-tree]] — 知识树
-- [[concept-ability-circle]] — 能力圈
-- [[concept-knowledge-compound]] — 知识复利
-- [[topic-knowledge-management]] — 知识管理主题页
-- [[2026-04-11-xiaozheng-tool2-knowledge-management-004]] — 来源文档
+- concept-knowledge-ipo — 知识IPO模型
+- concept-deliberate-practice — 刻意练习
+- concept-knowledge-tree — 知识树
+- concept-ability-circle — 能力圈
+- concept-knowledge-compound — 知识复利
+- topic-knowledge-management — 知识管理主题页
+- 2026-04-11-xiaozheng-tool2-knowledge-management-004 — 来源文档

@@ -5,12 +5,12 @@ type: topic
 created_at: 2026-04-10
 updated_at: 2026-04-10
 related:
-  - "[[concept-compound-engineering]]"
-  - "[[concept-knowledge-compound]]"
-  - "[[concept-output-as-reproduction]]"
-  - "[[concept-incremental-processing]]"
-  - "[[concept-inspection-over-repair]]"
-  - "[[topic-llm-knowledge-system]]"
+  - "concept-compound-engineering"
+  - "concept-knowledge-compound"
+  - "concept-output-as-reproduction"
+  - "concept-incremental-processing"
+  - "concept-inspection-over-repair"
+  - "topic-llm-knowledge-system"
 sources:
   - 2026-04-10-samuel-compound-knowledge-system-001
 ---
@@ -75,8 +75,8 @@ Compound Engineering 是一种通用方法论——不只适用于知识库，�
 
 ## Related
 
-- [[concept-compound-engineering]] — 核心概念定义
-- [[concept-knowledge-compound]] — 知识复利效应
-- [[concept-output-as-reproduction]] — 输出即再生产
-- [[topic-llm-knowledge-system]] — 复利工程在知识系统中的具体实践
-- [[2026-04-10-samuel-compound-knowledge-system-001]] — 来源文档
+- concept-compound-engineering — 核心概念定义
+- concept-knowledge-compound — 知识复利效应
+- concept-output-as-reproduction — 输出即再生产
+- topic-llm-knowledge-system — 复利工程在知识系统中的具体实践
+- 2026-04-10-samuel-compound-knowledge-system-001 — 来源文档

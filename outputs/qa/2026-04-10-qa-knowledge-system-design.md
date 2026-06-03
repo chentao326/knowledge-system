@@ -6,10 +6,10 @@ created_at: 2026-04-10
 updated_at: 2026-04-10
 question: "Samuel 的四步流程和 Karpathy 的三层架构有什么异同？搭建个人知识系统时应该如何取舍？"
 sources:
-  - "[[2026-04-10-samuel-compound-knowledge-system-001]]"
-  - "[[2026-04-10-karpathy-llm-knowledge-base-002]]"
-  - "[[topic-llm-knowledge-system]]"
-  - "[[topic-compound-engineering]]"
+  - "2026-04-10-samuel-compound-knowledge-system-001"
+  - "2026-04-10-karpathy-llm-knowledge-base-002"
+  - "topic-llm-knowledge-system"
+  - "topic-compound-engineering"
 ---
 
 ## 问题
@@ -85,7 +85,7 @@ Samuel 的四步流程和 Karpathy 的三层架构有什么异同？搭建个人
 
 ## 来源
 
-- [[2026-04-10-samuel-compound-knowledge-system-001]] — Samuel「用 AI 搭一套会复利的知识系统」
-- [[2026-04-10-karpathy-llm-knowledge-base-002]] — Karpathy「LLM Knowledge Bases」
-- [[topic-llm-knowledge-system]] — LLM 知识系统设计主题页
-- [[topic-compound-engineering]] — Compound Engineering 主题页
+- 2026-04-10-samuel-compound-knowledge-system-001 — Samuel「用 AI 搭一套会复利的知识系统」
+- 2026-04-10-karpathy-llm-knowledge-base-002 — Karpathy「LLM Knowledge Bases」
+- topic-llm-knowledge-system — LLM 知识系统设计主题页
+- topic-compound-engineering — Compound Engineering 主题页
